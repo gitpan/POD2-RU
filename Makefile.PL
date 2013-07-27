@@ -2,6 +2,15 @@ use strict;
 use warnings;
 use ExtUtils::MakeMaker;
 
+my $meta_merge = {
+    META_MERGE => {
+        resources => {
+            repository  => 
+                'https://github.com/mishin/perldoc-ru.git',
+        },
+    }
+};
+
 WriteMakefile(
     NAME              => 'POD2::RU',
     AUTHOR            => q{Команда Perl по-русски, Moscow-pm},
