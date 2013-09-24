@@ -5,7 +5,7 @@ use warnings;
 use base 'Exporter';
 use base 'POD2::Base';
 
-our $VERSION = '5.18.0.1.08';
+our $VERSION = '5.18.0.1.09';
 
 our @EXPORT = qw(print_pod print_pods);
 
@@ -243,7 +243,11 @@ POD2::ES Enrique Nell за его в помощь в напимании скри
 
 Благодарность Yusuke Kawasaki за совет разместить весь проект на github
 на вопрос о японской документации он ответил:
-They (JPRP people) uses sourceforge and its CVS. http://sourceforge.jp/cvs/view/perldocjp/docs/modules/ They are using a traditional mailing list and sourceforge's bug tracking system. In my opinion, github would be a much better way to manage those things at the moment. github was not exist when they started the project.
+They (JPRP people) uses sourceforge and its CVS. 
+
+L<http://sourceforge.jp/cvs/view/perldocjp/docs/modules/>
+
+They are using a traditional mailing list and sourceforge's bug tracking system. In my opinion, github would be a much better way to manage those things at the moment. github was not exist when they started the project.
 
 
 =head1 ЛИЦЕНЗИИ И АВТОРСКИЕ ПРАВА
