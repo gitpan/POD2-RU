@@ -11,6 +11,7 @@ lib/POD2/RU/perlnewmod.pod
 lib/POD2/RU/perlpragma.pod
 lib/POD2/RU/perlrun.pod
 lib/POD2/RU/perlstyle.pod
+lib/POD2/RU/perlrequick.pod
 Makefile.PL
 MANIFEST			This list of files
 META.json
