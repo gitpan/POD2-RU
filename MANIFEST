@@ -18,3 +18,4 @@ META.json
 META.yml
 README
 t/00base.t
+t/01pod.t
